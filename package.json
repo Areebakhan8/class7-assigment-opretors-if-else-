@@ -1,0 +1,19 @@
+{
+  "name": "class7opretors.ts",
+  "version": "1.0.0",
+  "description": "today i practice assinging opretors,comparison opretors,conditional statement if else",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Areeba Khan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
